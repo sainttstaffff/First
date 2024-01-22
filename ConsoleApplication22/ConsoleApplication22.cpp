@@ -10,6 +10,7 @@ void go_south_east(int *lat, int *lon)
 int main()
 {
 	// установим локаль
+	// ророоророр
 	setlocale(LC_ALL, "Russian");
 	int latitude = 32;
 	int longtude = -64;
